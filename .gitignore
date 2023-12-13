@@ -1,0 +1,4 @@
+# transcription result files
+.json 
+
+__pycache__/
